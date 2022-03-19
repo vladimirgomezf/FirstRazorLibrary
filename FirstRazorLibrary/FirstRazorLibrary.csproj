@@ -15,4 +15,11 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.3" />
   </ItemGroup>
 
+  <PropertyGroup>
+    <PackageId>FirstRazorLibrary</PackageId>
+    <Version>0.1.0-alpha1</Version>
+    <Authors>Vlad Gómez</Authors>
+    <Company>Novigado</Company>
+  </PropertyGroup>
+
 </Project>
